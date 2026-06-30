@@ -1,1 +1,1 @@
-﻿
+﻿namespace IntelligencePipeline;
